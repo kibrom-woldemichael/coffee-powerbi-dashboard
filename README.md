@@ -16,7 +16,7 @@ This project analyses coffee sales data using Power BI. It focuses on revenue, p
 - Excel
 
 ## Dashboard Preview
-![Dashboard](screenshots/dashboard_overview.png)
+![Dashboard](coffee-powerbi-dashboard/screenshots/dashboard_overview.png)
 
 ## How to Use
 1. Download the `.pbix` file
